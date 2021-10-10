@@ -1,2 +1,2 @@
-# Zash1997.gitub.io
+# Zash1997.github.io
 This is my website
